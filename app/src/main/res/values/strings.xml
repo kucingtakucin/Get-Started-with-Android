@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Belajar Android</string>
+    <string name="button">Button</string>
+    <string name="input_text">Masukkan sesuatu</string>
+</resources>
