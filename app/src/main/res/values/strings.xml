@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Belajar Android</string>
-    <string name="button">Button</string>
+    <string name="button">Press here!</string>
     <string name="input_text">Masukkan sesuatu</string>
+    <string name="naruto">naruto</string>
+    <string name="sasuke">sasuke</string>
 </resources>
