@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         dataBinding = DataBindingUtil.setContentView(this@MainActivity, R.layout.activity_main)
-
         dataBinding.apply {
             button.setOnClickListener {
                 val text: String? = inputText.text.toString()
